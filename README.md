@@ -13,3 +13,9 @@ automatique de la langue (NLP).
 - Lien Kaggle : [IMDb Dataset of 50K Movie Reviews]
 
 (https://www.kaggle.com/competitions/word2vec-nlp-tutorial/data)
+
+## Contributors
+
+- Théo Delporte
+- Tayvadi Phaisan-Nzonza
+- Camille Douaud
