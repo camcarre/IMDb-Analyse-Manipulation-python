@@ -14,8 +14,16 @@ automatique de la langue (NLP).
 
 (https://www.kaggle.com/competitions/word2vec-nlp-tutorial/data)
 
-## Contributors
+## Objectif
 
-- Théo Delporte
-- Tayvadi Phaisan-Nzonza
-- Camille Douaud
+crée un filtre pour nettoyer les critiques
+
+enleve les doublons
+
+fait la difference entre positif et négatif
+
+cree un bdd 
+
+
+
+
