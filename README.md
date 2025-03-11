@@ -13,3 +13,17 @@ automatique de la langue (NLP).
 - Lien Kaggle : [IMDb Dataset of 50K Movie Reviews]
 
 (https://www.kaggle.com/competitions/word2vec-nlp-tutorial/data)
+
+## Objectif
+
+crée un filtre pour nettoyer les critiques
+
+enleve les doublons
+
+fait la difference entre positif et négatif
+
+cree un bdd 
+
+
+
+
