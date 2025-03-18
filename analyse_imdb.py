@@ -49,4 +49,5 @@ plt.xlabel('Fréquence')
 plt.ylabel('Mots')
 
 plt.tight_layout()
-plt.show()
+plt.savefig('static/top_positive_words.png')  # Enregistrer le graphique des mots positifs
+plt.close()
