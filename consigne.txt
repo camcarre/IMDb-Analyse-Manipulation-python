@@ -1,0 +1,3 @@
+On commit ce qu'on a fait la semaine derniere: repo avec csv + script python d'exploration et de generation de report html + report html
+On fait le diagnostic des valeurs manquantes: combien? on drop horizontalement ou verticalement? On essaye d'imputer?
+On fait 2 graphes par groupes (je veux pas 5 fois les 2 graphes pour chaque groupe)
